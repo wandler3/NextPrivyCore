@@ -1,10 +1,6 @@
-# NextPrivyCore
-Willkommen beim offiziellen GitHub-Repository von NextPrivyCore. 
-<img width="829" height="337" alt="logo" src="https://github.com/user-attachments/assets/e914fde0-6f9d-4d4b-bb24-94e8c02f3725" />
-
 #  NextPrivyCore (NPC) - V2
 
-**Your Data. Your Rules. Your Web Operating System.**
+**Deine Daten. Deine Regeln. Nur das, was du wirklich brauchst!**
 
 Willkommen beim offiziellen GitHub-Repository von NextPrivyCore. 
 Um es mit den Worten des unvergessenen Forrest Gump zu sagen: *„Eines Tages hab ich beschlossen zu laufen und als ich dann an dem Ufer des Ozeans stand, hab ich mir gedacht, wenn du schon so weit gekommen bist, dann kannst du auch einfach weiter laufen...“*
