@@ -27,3 +27,25 @@ Den brandneuen, geführten Installer für V2, das komplette Appstore-Ökosystem 
 
 ---
 *Support the project: NextPrivyCore wird komplett in privater Eigenregie entwickelt und auf privater Infrastruktur betrieben. Wenn dir das System gefällt, freuen wir uns über eine kleine Unterstützung für Server- und Entwicklungskosten (Link auf der Website).*
+
+
+<details>
+<summary>⚖️ <b>Brand & Trademark Policy (Klicken zum Ausklappen)</b></summary>
+# NextPrivyCore Brand & Trademark Policy
+
+The name **"NextPrivyCore"**, the abbreviation **"NPC"** (in the context of this software), and the associated logos are the exclusive property and trademarks of the project creator (Kai Hempel).
+
+We love our community and encourage the use, modification, and self-hosting of our software for personal, family, or small-business environments. However, to protect our users and prevent confusion, we have established the following rules regarding our name and brand:
+
+### 🟢 What you MAY do:
+* Use the NextPrivyCore software on your own private or business servers.
+* Develop custom modules, widgets, or apps for the system (e.g., naming them "Calendar Module for NextPrivyCore").
+* Talk about, review, or create tutorials for NextPrivyCore using the name.
+
+### 🔴 What you MAY NOT do:
+* You may not distribute modified versions, forks, or clones of this software under the name "NextPrivyCore" or use the NPC logo.
+* You may not use the name "NextPrivyCore" in a way that suggests an official endorsement, partnership, or origin from the original creator if none exists.
+* You may not use the name or logo for commercial products, paid software-as-a-service (SaaS) offerings, or domain names without explicit written permission.
+
+For the official downloads, modules, and source files, always visit: **https://nextprivycore.de**
+</details>
