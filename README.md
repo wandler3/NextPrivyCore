@@ -9,15 +9,16 @@
 Willkommen beim offiziellen GitHub-Repository von NextPrivyCore. 
 Um es mit den Worten des unvergessenen Forrest Gump zu sagen: *„Eines Tages hab ich beschlossen zu laufen und als ich dann an dem Ufer des Ozeans stand, hab ich mir gedacht, wenn du schon so weit gekommen bist, dann kannst du auch einfach weiter laufen...“*
 
-Aus einem simplen Projekt zur intelligenten Dokumentenverwaltung ist nach über 1000 Stunden Entwicklung eine echte „eierlegende Wollmilchsau“ geworden: Ein komplettes Web Operating System (WOS) für den privaten Server.
+Aus einem simplen Projekt zur intelligenten Dokumentenverwaltung ist nach über 1000 Stunden Entwicklung eine echte „eierlegende Wollmilchsau“ geworden:
 
 ### 🏠 Was ist NextPrivyCore?
 NextPrivyCore ist die selbstgehostete Alternative zu großen kommerziellen Plattformen – gebaut für Familien, Vereine, kleine Handwerksbetriebe und alle, denen Datenschutz wichtig ist.
 
-* **Echter Desktop im Browser:** Ein aufgeräumter WOS-Desktop mit Startmenü, Taskleiste und anpassbaren Profilen.
+* **Echter Desktop im Browser:** Ein aufgeräumter Desktop mit Startmenü, Taskleiste und anpassbaren Profilen, oder einen Standart Launcher für mobile Endgeräte.
 * **Appstore & Module:** Vom Lexikon über "Office light" bis zur Projektverwaltung – erweitere NPC mit wenigen Klicks.
-* **Maximale Privatsphäre:** Deine Daten bleiben auf deiner Hardware (z.B. einem lokalen Raspberry Pi). Keine Cloud-Zwänge.
+* **Maximale Privatsphäre:** Deine Daten bleiben auf deiner Hardware (z.B. einem lokalen Raspberry Pi, oder einem Desktop PC, oder, oder, oder). Keine Cloud-Zwänge.
 * **Modul-Builder integriert:** Entwickle eigene Erweiterungen über den geführten Assistenten direkt im System.
+* Binde deine lokale ki mit ollama ein.
 
 * Der Launch der ersten offiziellen Version steht kurz bevor!
 * Wenn es soweit ist, geht es wie unten beschrieben weiter.
