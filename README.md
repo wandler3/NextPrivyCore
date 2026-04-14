@@ -15,7 +15,8 @@ Aus einem simplen Projekt zur intelligenten Dokumentenverwaltung ist nach über 
 NextPrivyCore ist die selbstgehostete Alternative zu großen kommerziellen Plattformen – gebaut für Familien, Vereine, kleine Handwerksbetriebe und alle, denen Datenschutz wichtig ist.
 
 * **Echter Desktop im Browser:** Ein aufgeräumter Desktop mit Startmenü, Taskleiste und anpassbaren Profilen, oder einen Standart Launcher für mobile Endgeräte.
-* **Appstore & Module:** Vom Lexikon über "Office light" bis zur Projektverwaltung – erweitere NPC mit wenigen Klicks.
+* **Wähle Deine Installation:** Entweder wählst du eine gehärtete Version ausschließlich für dein privates Netzwer und speicherst und verarbeites deine sensiblen Daten, oder eine öffentliche installation mit Mehrbenutzerverwaltung mit allem was dir so einfällt, oder du installierst einfach mehrere für verschiedene Zwecke.
+* **Appstore & Module:** Von einer Familiensuite mit Rezepten, Kalender, etc. über ein eigenes Lexikon, "Office light" bis zur Projektverwaltung – erweitere NPC mit wenigen Klicks.
 * **Maximale Privatsphäre:** Deine Daten bleiben auf deiner Hardware (z.B. einem lokalen Raspberry Pi, oder einem Desktop PC, oder, oder, oder). Keine Cloud-Zwänge.
 * **Modul-Builder integriert:** Entwickle eigene Erweiterungen über den geführten Assistenten direkt im System.
 * Binde deine lokale ki mit ollama ein.
