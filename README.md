@@ -19,6 +19,9 @@ NextPrivyCore ist die selbstgehostete Alternative zu großen kommerziellen Platt
 * **Maximale Privatsphäre:** Deine Daten bleiben auf deiner Hardware (z.B. einem lokalen Raspberry Pi). Keine Cloud-Zwänge.
 * **Modul-Builder integriert:** Entwickle eigene Erweiterungen über den geführten Assistenten direkt im System.
 
+* Der Launch der ersten offiziellen Version steht kurz bevor!
+* Wenn es soweit ist, geht es wie unten beschrieben weiter.
+
 ### 📥 Download & Installation
 Wir leben unsere Philosophie der Datenhoheit konsequent. Deshalb hosten wir unseren Code nicht auf externen Plattformen. **Dieses Repository dient ausschließlich der Dokumentation und dem Namensschutz.**
 
