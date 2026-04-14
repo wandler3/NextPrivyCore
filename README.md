@@ -1,3 +1,7 @@
+<img width="829" height="337" alt="logo" src="https://github.com/user-attachments/assets/05d0c48f-588b-4e9c-b906-08ccd615ce71" />
+
+
+
 #  NextPrivyCore (NPC) - V2
 
 **Deine Daten. Deine Regeln. Nur das, was du wirklich brauchst!**
