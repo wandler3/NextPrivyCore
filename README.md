@@ -25,7 +25,7 @@ NextPrivyCore ist die selbstgehostete Alternative zu großen kommerziellen Platt
 * Wenn es soweit ist, geht es wie unten beschrieben weiter.
 
 ### 📥 Download & Installation
-Wir leben unsere Philosophie der Datenhoheit konsequent. Deshalb hosten wir unseren Code nicht auf externen Plattformen. **Dieses Repository dient ausschließlich der Dokumentation und dem Namensschutz.**
+Wir leben unsere Philosophie der Datenhoheit konsequent. Dieses GitHub-Repository dient der Projektbeschreibung, Markenkommunikation und später ggf. öffentlichen Quelltextbestandteilen. Offizielle Downloads und Installationspakete werden über nextprivycore.de bereitgestellt.**
 
 Den brandneuen, geführten Installer für V2, das komplette Appstore-Ökosystem und alle weiteren Informationen findest du exklusiv auf unserer offiziellen Website:
 
